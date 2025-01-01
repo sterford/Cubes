@@ -1,6 +1,6 @@
 # Cubes - мой пет-проект.
 
-![alt text]("https://i.ibb.co/s16cCkw/photo-2025-01-01-23-10-41.jpg)
+![alt text](https://i.ibb.co/s16cCkw/photo-2025-01-01-23-10-41.jpg)
 
 
 - :rocket: **Поддержка** Если вы хотите поддержать автора - [link 📎](https://t.me/bludnovchannel)
